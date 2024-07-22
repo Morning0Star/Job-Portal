@@ -1,0 +1,28 @@
+package com.dao;
+
+import java.sql.*;
+
+public class JobDAO 
+{
+	private Connection conn;
+
+	public JobDAO(Connection conn) {
+		super();
+		this.conn = conn;
+	}
+	
+	public boolean addJobs(Jobs j)
+	{
+		boolean f=false;
+		try
+		{
+			
+		}
+		catch (Exception e)
+		{
+			e.printStackTrace();
+		}
+		return f;
+	}
+	
+}

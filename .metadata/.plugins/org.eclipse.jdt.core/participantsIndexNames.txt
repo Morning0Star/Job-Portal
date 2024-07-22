@@ -1,0 +1,7 @@
+INDEX VERSION 1.131
+C:\Users\kusha\OneDrive\Desktop\Online Job Portal\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1706644.index
+\Job_Portal\src\main\resources
+C:\Users\kusha\OneDrive\Desktop\Online Job Portal\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2383333083.index
+\Job_Portal\src\main\resources
+C:\Users\kusha\OneDrive\Desktop\Online Job Portal\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3208860360.index
+\Job_Portal\src\main\resources
